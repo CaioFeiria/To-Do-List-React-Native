@@ -92,10 +92,4 @@ meu-app-typescript/ ├── src/ │ └── screens/ # Contém todas as tel
 
 ---
 
-### 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
 _Desenvolvido com base no material de aula e exemplos práticos de gerenciamento de estado e navegação._

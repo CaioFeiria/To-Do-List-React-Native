@@ -8,11 +8,9 @@ O projeto foi construído do zero com o template `blank-typescript` do Expo, gar
 
 ---
 
-### демонстрация (Demonstração)
+### (Demonstração)
 
-_(Recomendação: Grave um GIF curto ou tire screenshots do aplicativo funcionando e insira aqui para uma visualização rápida)_
-
-![GIF do App](https://via.placeholder.com/600x400.png?text=Insira+um+GIF+ou+Screenshot+do+App)
+![Demonstração do App](./gif/demo.gif)
 
 ---
 
